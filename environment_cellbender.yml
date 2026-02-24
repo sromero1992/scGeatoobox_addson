@@ -28,7 +28,6 @@ dependencies:
   - openpyxl
   - scikit-image
   - hdf5plugin
-  # Specific CUDA 11.8 toolkit for your Quadro M2000
   - cudatoolkit=11.8
   - pytorch::pytorch
   - pytorch::torchvision
